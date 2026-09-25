@@ -581,7 +581,7 @@ Install dependencies:
 
 bash
 pip install -r requirements.txt
-```
+
 
 
 
@@ -631,7 +631,6 @@ ReDoc documentation:
 http://127.0.0.1:8000/redoc
 
 
----
 
 # 22. API Endpoints
 
